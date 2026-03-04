@@ -1,0 +1,3 @@
+Hasil kalibrasi data ke-1 : 110.55
+Hasil kalibrasi data ke-2 : 220
+Hasil kalibrasi data ke-3 : 165.55
